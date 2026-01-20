@@ -1,0 +1,4 @@
+pathway
+gradio
+requests
+sentence-transformers
