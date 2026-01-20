@@ -1,3 +1,4 @@
+
 # ⚡ LiveDocs AI - Data Clusters
 
 <div align="center">
@@ -11,6 +12,8 @@
 *Where Intelligence Meets Instantaneity.*
 
 [Features](#-features) • [Architecture](#-architecture) • [Installation](#-installation-and-setup) • [Live Demo](#-real-time-streaming-capability)
+
+</div>
 
 ---
 
@@ -132,3 +135,4 @@ This ensures that the application state is never static. It is a continuous func
 ---
 
 <p align="center">Built with ❤️ for DataQuest 2026</p>
+```
