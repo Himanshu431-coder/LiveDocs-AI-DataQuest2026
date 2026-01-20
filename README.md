@@ -72,7 +72,7 @@ graph LR
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LiveDocs-AI-DataQuest2026.git
+git clone https://github.com/Himanshu431-coder/LiveDocs-AI-DataQuest2026.git
 cd LiveDocs-AI-DataQuest2026
 ```
 
