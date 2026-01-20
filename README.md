@@ -4,7 +4,6 @@
 
 [![Event](https://img.shields.io/badge/Event-DataQuest%202026-blueviolet?style=for-the-badge)](https://megalith.co.in/)
 [![Team](https://img.shields.io/badge/Team-Data%20Clusters-blue?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Winning%20Submission-success?style=for-the-badge)]()
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge)]()
 
 **Submission for Megalith 2026 | IIT Kharagpur**
